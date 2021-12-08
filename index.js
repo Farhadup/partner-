@@ -57,4 +57,4 @@ client.user.setGame(`RaMa is here`)
 
 
 
-client.login("");// Token Lera Dane
+client.login("OTE4MDE5Mjg0NDA2NTA5NjA5.YbBKFQ.Xx_cMrUHi3Ghiau8dK5QNccN-SQ");// Token Lera Dane
